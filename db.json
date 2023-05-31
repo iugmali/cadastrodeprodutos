@@ -1,10 +1,22 @@
 {
-  "products" : [
+  "products": [
     {
-      "id" :  "1",
-      "name" : "iPhone 14",
-      "price" : 7500.00,
-      "quantity": 20
+      "name": "iPhone",
+      "description": "celular de ultima geracao",
+      "category": "eletronicos",
+      "quantity": "25",
+      "price": "7500",
+      "img": "file:///data/user/0/com.cadastrodeprodutos/cache/rn_image_picker_lib_temp_f46d5816-c241-482f-9b43-05fdb20b75df.jpg",
+      "id": 2
+    },
+    {
+      "name": "iphone 13",
+      "description": "celular lancado em 2021",
+      "category": "eletronics",
+      "quantity": "10",
+      "price": "6000",
+      "img": "file:///data/user/0/com.cadastrodeprodutos/cache/rn_image_picker_lib_temp_2136f836-9c12-4bfa-b8fc-8805b138f191.jpg",
+      "id": 3
     }
   ]
 }
